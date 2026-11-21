@@ -8,24 +8,23 @@
 
 ### Primary Deliverable Link *
 > **GitHub Repository:**  
-> `https://github.com/<your-username>/cynbit-ai-opportunity`  
-> *(Alternative if uploading to Google Drive: `https://drive.google.com/drive/folders/<your-drive-folder-id>?usp=sharing`)*
+> `https://github.com/ArnavP2305/cynbit-ai-opportunity`
 
 ---
 
 ### Additional Deliverable Links (Up to 4 Links)
 
-* **Additional Link 1 (Interactive Demo / Deployed Streamlit App):**  
-  `https://cynbit-revio-pulse-ai.streamlit.app` *(or your Streamlit / Hugging Face Spaces / Vercel deployment link)*
+* **Additional Link 1 (Executive AI Opportunity Report - Industry & ROI Analysis):**  
+  `https://github.com/ArnavP2305/cynbit-ai-opportunity/blob/main/AI_OPPORTUNITY_REPORT.md`
 
-* **Additional Link 2 (Google Colab Notebook Walkthrough):**  
-  `https://colab.research.google.com/drive/<your-colab-notebook-id>?usp=sharing` *(Open and run `Revio_AI_Opportunity_PoC.ipynb` with one click)*
+* **Additional Link 2 (Technical Approach & Architecture Blueprint):**  
+  `https://github.com/ArnavP2305/cynbit-ai-opportunity/blob/main/TECHNICAL_APPROACH_REPORT.md`
 
-* **Additional Link 3 (Executive AI Opportunity Report - Industry & ROI Analysis):**  
-  `https://github.com/<your-username>/cynbit-ai-opportunity/blob/main/AI_OPPORTUNITY_REPORT.md`
+* **Additional Link 3 (Google Colab Notebook Walkthrough):**  
+  `https://github.com/ArnavP2305/cynbit-ai-opportunity/blob/main/Revio_AI_Opportunity_PoC.ipynb`
 
-* **Additional Link 4 (Technical Approach & Architecture Report):**  
-  `https://github.com/<your-username>/cynbit-ai-opportunity/blob/main/TECHNICAL_APPROACH_REPORT.md`
+* **Additional Link 4 (Interactive Streamlit Dashboard Code):**  
+  `https://github.com/ArnavP2305/cynbit-ai-opportunity/blob/main/app.py`
 
 ---
 

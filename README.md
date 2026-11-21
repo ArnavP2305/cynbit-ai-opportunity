@@ -60,7 +60,7 @@ cynbit-ai-opportunity/
 
 ### 1. Clone & Install Dependencies
 ```bash
-git clone https://github.com/<your-username>/cynbit-ai-opportunity.git
+git clone https://github.com/ArnavP2305/cynbit-ai-opportunity.git
 cd cynbit-ai-opportunity
 pip install -r requirements.txt
 ```
